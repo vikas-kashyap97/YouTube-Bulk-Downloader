@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Downloads and temporary data
+Downloaded_Videos/
+*.mp4
+*.mkv
+*.webm
+
+# Excel logs and temp files
+failed_*.txt
+
+# System files
+.DS_Store
+Thumbs.db
